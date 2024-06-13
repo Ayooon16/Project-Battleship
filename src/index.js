@@ -1,3 +1,3 @@
 import "./style.css";
-const hello = () => console.log("hello world!")
-hello()
+const hello = () => console.log("hello world!");
+hello();
